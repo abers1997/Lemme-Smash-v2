@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 84080fce17c3a514cbfb455ff81354c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -918540266717212565
+    second: P2_left_dance_0
+  - first:
+      213: 4328990069690083484
+    second: P2_left_dance_1
+  - first:
+      213: 1862789694358869088
+    second: P2_left_dance_2
+  - first:
+      213: 7217831674386213234
+    second: P2_left_dance_3
+  - first:
+      213: -3456231428684924774
+    second: P2_left_dance_4
+  - first:
+      213: -5948934855482972693
+    second: P2_left_dance_5
+  - first:
+      213: -2580252832594116113
+    second: P2_left_dance_6
+  - first:
+      213: -1300903249964962103
+    second: P2_left_dance_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: P2_left_dance_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 21
+        width: 79
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeb5a790879ae84392f0b5c30f85a85
+      internalID: -918540266717212565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P2_left_dance_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 21
+        width: 80
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09c2b44ab1e42e439d1aae1a4c6ac75
+      internalID: 4328990069690083484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P2_left_dance_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 21
+        width: 83
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5525533, y: 0.0068160347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf0e31242df424f9546af8279b0a83
+      internalID: 1862789694358869088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P2_left_dance_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 21
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.54131347, y: 0.0026170113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ee5243b2687394d95df15a7f9ba784
+      internalID: 7217831674386213234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P2_left_dance_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 21
+        width: 79
+        height: 72
+      alignment: 9
+      pivot: {x: 0.47457847, y: 0.0010727777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c186add834db044a9b967727feed0f
+      internalID: -3456231428684924774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P2_left_dance_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 21
+        width: 82
+        height: 71
+      alignment: 9
+      pivot: {x: 0.43037972, y: 0.003783911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac62e97a00027749be3edf795a4cb6c
+      internalID: -5948934855482972693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P2_left_dance_6
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 21
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5383849, y: 0.0030223029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c396bfb95bdd6e84fa1eacae8f895989
+      internalID: -2580252832594116113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P2_left_dance_7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 21
+        width: 77
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ae9a099bbf8754d81b74df1239e8ef
+      internalID: -1300903249964962103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9bf772e74497b434a87f7be8a22aa328
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

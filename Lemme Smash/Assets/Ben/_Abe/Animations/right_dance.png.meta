@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 2b55c0183a0191a4e830e9fcd2aee8b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6623413025649548176
+    second: right_dance_0
+  - first:
+      213: 1691780341399486818
+    second: right_dance_1
+  - first:
+      213: -6270885915579551164
+    second: right_dance_2
+  - first:
+      213: -2989144428947181442
+    second: right_dance_3
+  - first:
+      213: 8770715739434573387
+    second: right_dance_4
+  - first:
+      213: 4611492957440782959
+    second: right_dance_5
+  - first:
+      213: 7012328931351885637
+    second: right_dance_6
+  - first:
+      213: -217948097696773275
+    second: right_dance_7
+  - first:
+      213: -9220057918237437988
+    second: right_dance_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right_dance_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 21
+        width: 57
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5720315, y: 0.0014406004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c8c4ca46cd0784d942ae15774fc9ff
+      internalID: 6623413025649548176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_dance_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 21
+        width: 57
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5710378, y: 0.0014029581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede3bd30c87195d48a81fd83c1375dff
+      internalID: 1691780341399486818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_dance_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 21
+        width: 65
+        height: 68
+      alignment: 9
+      pivot: {x: 0.62220883, y: 0.00000005609849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac4d9c7b5e6eb47ba03985f32c9257
+      internalID: -6270885915579551164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_dance_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 21
+        width: 66
+        height: 73
+      alignment: 9
+      pivot: {x: 0.47176614, y: 0.000607791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d31911370107f4799cc16f0a3352b6
+      internalID: -2989144428947181442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_dance_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 37
+        width: 87
+        height: 59
+      alignment: 9
+      pivot: {x: 0.37612247, y: 0.0015612456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eed5015fd55ed4e86c3ccb6b1495b8
+      internalID: 8770715739434573387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_dance_5
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 20
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: 0.27443045, y: -0.0014888763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79264fd546f566e469b598fe95486b99
+      internalID: 4611492957440782959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_dance_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 37
+        width: 98
+        height: 63
+      alignment: 9
+      pivot: {x: 0.47488964, y: -0.0011488899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee691879599164b4692afc1f8c7c65ea
+      internalID: 7012328931351885637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_dance_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 81
+        width: 16
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91cc70ca65f1954687c2a331c3eea28
+      internalID: -217948097696773275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_dance_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 21
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: 0.45953962, y: 0.0016184998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925bafd11ae1bf4418b65cf17ba61f30
+      internalID: -9220057918237437988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6019c5148592c35409f8205395b4fcf7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
